@@ -1,5 +1,6 @@
 DESIGN ARCHITECTURE
-Design Architecture<img width="808" height="158" alt="image" src="https://github.com/user-attachments/assets/ad93bd68-2c90-4b37-9262-3cb8d3e17625" />
+<img width="1087" height="571" alt="image" src="https://github.com/user-attachments/assets/9be3ea88-ac0f-4dd1-94b6-5afabc8f27d5" />
+
 
 IMPLEMENTATION (RISC-V)
 
