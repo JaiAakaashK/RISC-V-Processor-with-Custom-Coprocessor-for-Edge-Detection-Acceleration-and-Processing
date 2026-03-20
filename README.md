@@ -1,4 +1,4 @@
-This is a design of RISC-V processor with custom co-processor for Sobel edge detection and acceleration of images. All sub-modules are included here alongside output and testbench as well. Additionally python codes are also give for greyscale image conversion and .pgm to .jpg conversion for output image  
+This is a design of RISC-V processor with custom co-processor for Sobel edge detection and acceleration of images. All sub-modules are included here alongside output and testbench as well. Additionally python codes are also give for greyscale image conversion and .pgm to .jpg conversion for output image alongside this instructions file to execute RISC-V is also given
 
 
 DESIGN ARCHITECTURE
