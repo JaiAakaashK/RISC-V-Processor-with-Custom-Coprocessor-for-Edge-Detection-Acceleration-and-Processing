@@ -69,6 +69,7 @@ Output Address Generation and Write-Back:
 An output address generator computes write addresses based on delayed row and column indices aligned with pipeline latency. Valid Sobel outputs are written sequentially back to memory, excluding boundary pixels where a full convolution window is unavailable. This ensures spatial alignment between input and processed output images.
 
 Pipeline Completion and Continuous Operation:
+
 After the final pixel is processed, remaining pipeline data is flushed automatically through valid-signal propagation. Once all outputs are written, valid signals de-assert, indicating completion. The system then remains ready for the next start command without requiring extensive reinitialization..
 
 
