@@ -1,3 +1,6 @@
+All sub-modules are included here alongside output and testbench as well. Additionally python codes are also give for greyscale image conversion and .pgm to .jpg conversion for output image  
+
+
 DESIGN ARCHITECTURE
 
 <img width="1087" height="571" alt="image" src="https://github.com/user-attachments/assets/9be3ea88-ac0f-4dd1-94b6-5afabc8f27d5" />
